@@ -29,7 +29,7 @@ https://kinogo.biz/23896-dorian-grej.html
 [kinogo.biz/23896-dorian-grej.html](https://kinogo.biz/23896-dorian-grej.html)
 
 ## Работа с таблицами
-
+Таблицы можно вставлять инструкция приведена ниже
 ## Цитаты
 
 ## Заключение 
